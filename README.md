@@ -40,7 +40,7 @@ W
 
 ## Output
 
-​	-> The generated prompts will be put in `./output/prompts`.  You can input both the prompts and the natural language requirement texts into the large language model to obtain the final LTL formula.
+​	-> The generated prompts will be put in `./output/prompts`.  You can input both the prompts and the natural language requirement texts into the large language model to obtain the final logic formula.
 
 
 
