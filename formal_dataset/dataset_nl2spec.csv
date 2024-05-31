@@ -1,0 +1,37 @@
+NL
+Every a is eventually followed by a e.
+It is never the case that a and b hold at the same time.
+"Whenever a is enabled, b is enabled three steps later."
+"e must hold everywhere until from some point on, d holds infinitely often."
+"If b holds at some point, a has to hold somewhere beforehand."
+"Whenever a holds, b holds as well."
+Both a and b hold in every time step.
+"a holds always and whenever b holds, c does not hold."
+"If it is the case that every a is eventually followed by a b, then c needs to holds infinitely often."
+"If a holds infinitely often, then b holds infinitely often as well."
+Either a or b holds infinitely often
+a never holds from some point in time on.
+"Whenever a and b do not hold, c holds eventually."
+a and b never occur at the same time but one of them holds in every time step.
+"Whenever the inputs a and b are the same, the outputs c and d are the same."
+a can only happen if b happend before
+"Once a happened, b will not happen again."
+a releases b
+a and b will not occur at the same time
+"Whenever a holds and b holds in the next step, then c holds one step after b."
+"Whenever a holds, b holds eventually from the next step on."
+a holds in every fifth step.
+Either a holds infinitely often or b holds in the next step.
+a will hold at all instances.
+"Whenever a holds, b must hold in the next two steps"
+"One of the following aps will hold at all instances: a,b,c"
+If a holds b will eventually hold
+"a must always hold, but if is execeeds, it allow two timestamps to recover."
+not a holds at most two timestamps
+a can only hold every three timestamps
+Every a is followed by a b.
+Eventually a and b hold.
+Both a and b hold eventually.
+It is always the case that a is the same as b in the next step.
+"If b holds then, in the next step, c holds until a holds or always c holds"
+a holds until b holds or always a holds
