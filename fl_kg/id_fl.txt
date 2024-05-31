@@ -1,0 +1,3 @@
+10	Linear Temporal Logic
+11	Computation Tree Logic
+12	Temporal Logic of Actions
